@@ -18,6 +18,22 @@ This is the agent I built. It's a fully functional voice assistant that demonstr
 
 ---
 
+## ⚙️ Other Projects
+
+- 🤖 [AI Interviewer](https://github.com/IBATMANSINGH/AI-Interviewer)  
+  Voice-based mock interviewer with feedback/evaluation summaries using LLMs.
+  
+- ✍️ [Prompt Polish Extension](https://github.com/IBATMANSINGH/Prompt-Polish-Extention)  
+  Chrome extension that rewrites your prompts to make them clearer and more effective.
+  
+- 🧾 [Invoice Generator](https://github.com/IBATMANSINGH/Invoice_Generator)  
+  Generates invoices with structured data from text or user inputs.
+
+- 🧠 [Blog Caption Generator](https://github.com/IBATMANSINGH/blog-caption-generator)  
+  LLM-powered tool that creates catchy titles and summaries from raw blog content.
+
+---
+
 ### 💡 My Approach to AI-Assisted Development
 
 Every project listed here was built using a "prompt-first" philosophy. I don't just write code; I architect systems by directing an LLM.
@@ -27,9 +43,25 @@ Every project listed here was built using a "prompt-first" philosophy. I don't j
 
 ---
 
-*Connect with me on [LinkedIn][https://www.linkedin.com/in/ankitsingh43/] | Check out my other projects below!*
+## 🧰 Tech Stack
+
+- **LLMs:** OpenRouter (DeepSeek, Claude, GPT-4), Ollama  
+- **Tools:** Vapi, LangChain, Streamlit, React, Chrome Extensions  
+- **Langs:** Python, JavaScript, HTML/CSS, Markdown  
+- **DevOps:** Git, Docker, Render
 
 ---
+
+## 📬 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ankitsingh43/)  
+- 🧠 [GitHub Projects](https://github.com/IBATMANSINGH?tab=repositories)  
+- 💬 Open to opportunities in prompt engineering, AI automation, or full-stack AI tooling.
+
+---
+
+> “From intention to instruction — I make AI work with the right words.”
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IBATMANSINGH&show_icons=true&theme=tokyonight&count_private=true" alt="Ankit's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBATMANSINGH&layout=compact&theme=dracula" alt="Ankit's Top Languages" />
