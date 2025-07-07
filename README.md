@@ -11,7 +11,7 @@ Hello! I'm Ankit, a developer with a passion for using natural language to build
 This is the agent I built. It's a fully functional voice assistant that demonstrates my skills in prompt design, tool integration, and iterative debugging.
 
 *   **🎙️ Test the Live Agent Here:** https://vapi.ai?demo=true&shareKey=ce9f629b-9256-46f4-9604-a1a5f1621a9a&assistantId=1761dbb9-8e6b-48ce-a6ab-ff80647d64aa
-*   **📂 View the Project Repository:** [Link to the new GitHub repo you will create in Step 2]
+*   **📂 View the Project Repository:** https://github.com/IBATMANSINGH/voice-ai-admissions-counselor
 
 ---
 
