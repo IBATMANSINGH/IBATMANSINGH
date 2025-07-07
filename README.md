@@ -62,6 +62,8 @@ Every project listed here was built using a "prompt-first" philosophy. I don't j
 
 > “From intention to instruction — I make AI work with the right words.”
 
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IBATMANSINGH&show_icons=true&theme=tokyonight&count_private=true" alt="Ankit's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBATMANSINGH&layout=compact&theme=dracula" alt="Ankit's Top Languages" />
