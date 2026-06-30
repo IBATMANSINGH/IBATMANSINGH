@@ -68,3 +68,5 @@ Every project listed here was built using a "prompt-first" philosophy. I don't j
   <img src="https://github-readme-stats.vercel.app/api?username=IBATMANSINGH&show_icons=true&theme=tokyonight&count_private=true" alt="Ankit's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBATMANSINGH&layout=compact&theme=dracula" alt="Ankit's Top Languages" />
 </p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5d4805d0-696e-44af-ae22-22127714b5c8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
